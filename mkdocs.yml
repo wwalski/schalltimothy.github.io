@@ -1,0 +1,13 @@
+site_name: BES Playbooks
+
+nav:
+- Home: index.md
+- Agile: agile.md
+- -Agile Transformation: agiletrans.md
+- -Applying Agile Methods and Mindset Within The Air Force: applyag.md
+- Automated Testing: autotest.md
+- -Test Automation: test.md
+
+
+
+theme: readthedocs
